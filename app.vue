@@ -213,10 +213,12 @@ code {
 
 <script>
 import CssCircle from './components/css-circle.vue'
+import CssFillCircle from './components/css-fill-circle.vue'
 
 export default {
   components: {
-    circleCss: CssCircle
+    circleCss: CssCircle,
+    circleFill: CssFillCircle
   }
 }
 </script>

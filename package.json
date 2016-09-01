@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --host=0.0.0.0",
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "lint": "kyle --types=js --diff-index"
   },
   "repository": {
     "type": "git",

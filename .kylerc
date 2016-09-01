@@ -1,0 +1,8 @@
+{
+  "js": {
+    "extensions": [".vue"],
+    "rules": {
+      
+    }
+  }
+}
